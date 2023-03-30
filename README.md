@@ -10,7 +10,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Hazar Diyar Bakır, Software Developer, Game Developer and QA Tester.
+I'm Hazar Diyar Bakır,a self-taught game developer. I have experience with C#, Python, and Unity and I'm passionate about turning imagination into reality through game development. On my Github profile, I share my game development projects and constantly strive to learn something new. My biggest dream is to make a career in game development. If you share my passion, please feel free to contact me.
   <br>
   <br>
   💻 I love writing code and learn anythings about it

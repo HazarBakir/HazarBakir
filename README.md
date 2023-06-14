@@ -44,7 +44,7 @@ I'm Hazar Diyar Bakır,a self-taught game developer. I have experience with C#, 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
  
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HazarBakir&hide_progress=true&align="center")
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HazarBakir&hide_progress=true&align="center"&theme=transparent)
 
  
  

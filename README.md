@@ -55,7 +55,7 @@ I'm Hazar Diyar Bakır,a self-taught game developer. I have experience with C#, 
 
  
  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HazarBakir&bg_color=dfffef&color=a40000&line=000000&point=a80000&area=true&hide_border=true&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HazarBakir&bg_color=dfffef&color=a40000&line=000000&point=a80000&area=true&hide_border=true&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)              [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HazarBakir&bg_color=dfffef&color=a40000&line=000000&point=a80000&area=true&hide_border=true&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 

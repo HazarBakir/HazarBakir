@@ -59,7 +59,7 @@ I'm Hazar Diyar Bakır,a self-taught game developer. I have experience with C#, 
   <br>
  </p>
  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HazarBakir&hide_progress=true&align="center")
+                                                ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HazarBakir&hide_progress=true&align="center")
 
  
  

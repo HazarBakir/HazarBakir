@@ -41,20 +41,19 @@ I'm Hazar Diyar Bakır,a self-taught game developer. I have experience with C#, 
 
 <h2 align="center">Stats</h2>
 
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<a align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
+</a>
 
  
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HazarBakir&hide_progress=true&align="center"&theme=transparent)
+<a align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazarBakir&hide_progress=true&theme=transparent" />
+</a>
 
  
  
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HazarBakir&bg_color=dfffef&color=a40000&line=000000&point=a80000&area=true&hide_border=true&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
-</a>
 
 
 

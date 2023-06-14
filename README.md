@@ -47,7 +47,7 @@ I'm Hazar Diyar Bakır,a self-taught game developer. I have experience with C#, 
 
  
 <a align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazarBakir&layout=donut-vertical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazarBakir&layout=donut-vertical&theme=transparent" />
 </a>
 
  

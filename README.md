@@ -64,7 +64,8 @@ I'm Hazar Diyar Bakır,a self-taught game developer. I have experience with C#, 
 <a href="https://github.com/HazarBakir/DontStop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HazarBakir&repo=DontStop&theme=transparent" />
 </a>
-
+<a>
+</a>
 
 
 <a href="https://github.com/HazarBakir/FlappyBird">

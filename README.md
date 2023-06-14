@@ -41,6 +41,7 @@ I'm Hazar Diyar Bakır,a self-taught game developer. I have experience with C#, 
 
 <h2 align="center">Stats</h2>
 
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
  
@@ -59,3 +60,9 @@ I'm Hazar Diyar Bakır,a self-taught game developer. I have experience with C#, 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HazarBakir&repo=FlappyBird&theme=transparent)](https://github.com/HazarBakir/FlappyBird)
 
 
+<a href="https://github.com/HazarBakir/DontStop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HazarBakir&repo=DontStop&theme=transparent" />
+</a>
+<a href="https://github.com/HazarBakir/FlappyBird">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HazarBakir&repo=FlappyBird&theme=transparent" />
+</a>

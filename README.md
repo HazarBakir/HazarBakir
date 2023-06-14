@@ -58,8 +58,8 @@ I'm Hazar Diyar Bakır,a self-taught game developer. I have experience with C#, 
     </a>
   </div>
   <br>
- </p>
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HazarBakir&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ </p>
 
 
 <hr>

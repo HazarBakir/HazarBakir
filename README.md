@@ -52,14 +52,16 @@ I'm Hazar Diyar Bakır,a self-taught game developer. I have experience with C#, 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HazarBakir&bg_color=dfffef&color=a40000&line=000000&point=a80000&area=true&hide_border=true&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
+</a>
+
+
+
+
+
+
 <h2 align="center">Repositories</h2>
-
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HazarBakir&repo=DontStop&theme=transparent)](https://github.com/HazarBakir/DontStop)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HazarBakir&repo=FlappyBird&theme=transparent)](https://github.com/HazarBakir/FlappyBird)
-
-
 <a href="https://github.com/HazarBakir/DontStop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HazarBakir&repo=DontStop&theme=transparent" />
 </a>

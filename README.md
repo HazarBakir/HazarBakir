@@ -49,23 +49,16 @@ I'm Hazar Diyar Bakır,a self-taught game developer. I have experience with C#, 
  
  
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HazarBakir&bg_color=dfffef&color=a40000&line=000000&point=a80000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<hr>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HazarBakir&repo=DontStop)](https://github.com/HazarBakir/DontStop)
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HazarBakir&repo=FlappyBird)](https://github.com/HazarBakir/FlappyBird)
 
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/HazarBakir/DontStop" title="DontStop"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HazarBakir&repo=DontStop&theme=merko&border_radius=10"></a>
-  <a align="left" href="https://github.com/HazarBakir/FlappyBird" title="FlappyBird"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HazarBakir&repo=FlappyBird&theme=merko&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<h4 align="center">
-  <a href="https://github.com/HazarBakir?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
 
 
 <!--
